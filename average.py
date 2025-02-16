@@ -12,7 +12,7 @@ if s1<average:
 
  print("Speed 1 is slower than average with the difference of ", average-s1)
 
-if s2<average:
+if s2<average: 
 
  print("Speed 2 is slower than average with the difference of ", average-s2)
 
